@@ -5,3 +5,4 @@ It uses a random module to generate random numbers .In this game,the user gets t
 ***1.Rock vs Paper-> Paper Winner***
 ***2.Rock vs Scissor->Rock Winner***
 ***3.Paper vs Scissor->Paper Winner***
+![Screenshot 2025-01-25 004251](https://github.com/user-attachments/assets/cc867955-8c06-4829-a89a-2f86d89096fb)
